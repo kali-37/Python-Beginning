@@ -4,7 +4,5 @@
 like we have registration form of any other application where 
 name , age , place .. is already written and we have to fill it 
 
-
 like as easy it makes to write form as previously in blue print form..
-
-
+10
